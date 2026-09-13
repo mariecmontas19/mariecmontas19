@@ -1,7 +1,3 @@
-<h1 style="font-weight:normal" align="center">
-  &nbsp;Hi, I'm Marie! :wave:&nbsp;
-</h1>
-
 <div align="center">
 
 &nbsp;&nbsp;&nbsp;
