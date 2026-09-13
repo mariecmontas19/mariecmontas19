@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 style="font-weight:normal" align="center">
+  &nbsp;Hi, I'm Marie! :wave:&nbsp;
+</h1>
 
-<!--
-**mariecmontas19/mariecmontas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;
+<a href="https://sites.harvard.edu/marie-c-montas/"><img border="0" alt="Website" src="https://assets.dryicons.com/uploads/icon/svg/4926/home.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:mariemontas@fas.harvard.edu"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8009/02dc3a5c-6504-4347-85fb-3f510cfecc45.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mariecmontas/"><img border="0" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Stata](https://img.shields.io/badge/-Stata-1A5F91?style=flat&logo=stata&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
+
+I am an economist and Ph.D. candidate in Population Health Sciences at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/global-health-and-population/), where I work at the intersection of global health and development economics. I grew up in the Dominican Republic, came to the United States as a [Fulbright](https://foreign.fulbrightonline.org/) scholar, and spent three years as health policy analyst at the Dominican health insurance regulator and Ministry of Health before graduate school.
+
+My research asks how the quality and organization of health service delivery shape fertility, health, and human capital in low- and middle-income countries. In my job market paper, I link 1.44 million registered births to census and geolocated facility data to evaluate the Dominican Republic's staggered national roll-out of adolescent-friendly health services, using heterogeneity-robust difference-in-differences estimators. Related work uses experimental data from urban Malawi to study the causal effect of contraceptive counseling quality on family planning outcomes, laboratory testing of medicines in Nigeria to study price and quality, and a cluster-randomized trial of radio-delivered family planning information in Nigeria. Methodologically, I work with randomized and quasi-experimental designs, national administrative and civil-registry data, and geospatial analysis.
+
+Beyond research, I have worked closely with governments and multilaterals: with the Dominican Ministry of Economy during the COVID-19 response, with WHO, PAHO, and the Inter-American Development Bank on health financing and public financial management, and with Bloomberg Philanthropies' Data for Health initiative building an epidemiological surveillance dashboard for Santo Domingo's City Hall and Ministry of Health. I am also passionate about teaching. I am a Head Teaching Fellow at Harvard for multiple courses including econometrics for health policy and undergraduate global health courses. I have also built curriculums for the University of Puerto Rico, and taught english as a second language for older adults in Santo Domingo.
